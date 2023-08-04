@@ -23,10 +23,10 @@ Related PowerPoint presentation and Jupyter notebook are linked below:
 
 Our repository has a simple structure consisting of branches for different team members. The Repositoy Contains the following files -
 
-* **Presentation: "Capstone_Group2_Presentation.pdf"
-* **Jupyter Notebook: "Churn-Prediction-G2.ipynb"
-* **Proposal: "GROUP 2_JUNE 23.pdf"
-* **Data Source: "credit_card_churn.csv"
+* **Presentation: "Capstone_Group2_Presentation.pdf"**
+* **Jupyter Notebook: "Churn-Prediction-G2.ipynb"**
+* **Proposal: "GROUP 2_JUNE 23.pdf"**
+* **Data Source: "credit_card_churn.csv"**
 
 ## Business Understanding
 

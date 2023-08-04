@@ -15,15 +15,20 @@ In our report we will cover:
 
 Related PowerPoint presentation and Jupyter notebook are linked below:
 
-[PowerPoint Presentation]()
+[PowerPoint Presentation](Capstone_Group2_Presentation.pdf)
 
 ![Jupyter Notebook](https://github.com/PaolaMalagon/Churn-Prediction-G2/blob/main/Churn-Prediction-G2.ipynb)
 
 ## Repository Structure
 
-Our repository has a simple structure consisting of branches for different team members, a .ipynb file containing our code, our proposal, and the dataset.
+Our repository has a simple structure consisting of branches for different team members. The Repositoy Contains the following files -
 
-## Buiness Understanding
+* **Presentation: "Capstone_Group2_Presentation.pdf"
+* **Jupyter Notebook: "Churn-Prediction-G2.ipynb"
+* **Proposal: "GROUP 2_JUNE 23.pdf"
+* **Data Source: "credit_card_churn.csv"
+
+## Business Understanding
 
 ### Key Business Question
 
@@ -69,4 +74,14 @@ To provide a better recommendations our team expanded beyond just accuracy as a 
 
 ### Best model
 
+Random Forest was the best performing model overall. XGBoost had a slightly higher recall scores with a few less false negatives; however, because the precision and f-1 score were so much lower it was not worth the tradeoff. 
+
 ## Conclusion and Recommendations
+
+Our final recommendation to CCI is to implement the Random Forest model.
+
+### Business Solution
+
+The Random forest model scored quite well in recall and false negatives. For CCI, that means they are going to be able to predict fairly accurately which customers will cancel their card. Additionally, there will be less impact from customers who cancel but were not predicted to. The Random Forest model also has visibility and interpretability into which variables are the strongest predictors for a customer to cancel. 
+
+CCI is going to be able to decrease their attrition rate leading to increased customer lifetime value, decreased customer acquisition costs, improved company valuation, and increase in the number of satisfied customers. In the future, CCI could use this model to address similar clafficiation problems such as fraud, or loan approval. 

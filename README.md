@@ -11,7 +11,7 @@ In our report we will cover:
 * [***Business Understanding:***](#business-understanding) Our understanding of the goal, key questions, and stakeholders
 * [***Data Understanding and Analysis:***](#data-understanding-and-analysis) Our data sources, descriptions, and visualizations
 * [***Statistical Analysis:***](#statistical-analysis) Our statistical analysis and interpretation
-* [***Conclusion and Recommendations:***](#conclusions-and-recommendations) Our relevant findings and recommendations
+* [***Conclusion and Recommendations:***](#conclusion-and-recommendations) Our relevant findings and recommendations
 
 Related PowerPoint presentation and Jupyter notebook are linked below:
 
